@@ -67,6 +67,12 @@ button {
     margin-top: 10px;
 }
 
+#changeColorButton {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 button:hover {
     background-color: #d9b7bb;
 }
@@ -75,3 +81,8 @@ button:hover {
     width: 200px; 
     height: 80px; 
 }
+
+.yellow-background {
+    background-color: rgb(241, 221, 39);
+}
+
