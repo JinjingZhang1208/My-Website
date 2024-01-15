@@ -1,4 +1,4 @@
-# assignment-1-homepage
+homepage
 
 - create a static home page using HTML and CSS
 - your homepage must have more than one page
